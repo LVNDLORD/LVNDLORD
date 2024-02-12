@@ -1,10 +1,5 @@
 # Hello, I'm Andrii Deshko
 
-<!-- ![Alt text](./images/prog.gif) -->
-<!-- <p align="center">
-  <img width="600" height="400" src="./images/coding-freak.gif">
-</p> -->
-
 I am a passionate developer living in Espoo, Finland
 
 - 📖 I’m a studying [Software Engineering](https://opinto-opas.metropolia.fi/88094/en/67/70331/3319/2490) at [Metropolia University](https://www.metropolia.fi/en) in Helsinki
@@ -14,8 +9,8 @@ I am a passionate developer living in Espoo, Finland
 - 🤝 Interested in collaborations
 
 
-Projects I have done:
 <img align="right" alt="coding" width="400" src="./images/coding-freak.gif">
+Projects I have done:
 
 [Supermarket Queue Simulation](https://github.com/LVNDLORD/3-phase-simulator) <br>
 [Fitness App](https://github.com/SoaresPT/FitnessApp) <br>
@@ -51,17 +46,3 @@ You can reach me via [LinkedIn](https://www.linkedin.com/in/andrii-deshko-161b74
 - [Junction Hackathon 2022](https://metropoliafi-my.sharepoint.com/:b:/g/personal/andriid_metropolia_fi/EfxydaKlxRVKukL0L_DCii8BpEKAsnkqkWYwAOyQDEEaAg?e=JmArC3)
 
 - [Google Analytics Academy (2021)](https://analytics.google.com/analytics/academy/certificate/vhx21RgMR5yAD3P03BZmRw)
-<!--
-**LVNDLORD/LVNDLORD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
