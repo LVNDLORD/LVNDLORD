@@ -12,6 +12,7 @@ I am a passionate developer living in Espoo, Finland
 <img align="right" alt="coding" width="400" src="./images/coding-freak.gif">
 Projects I have done:
 
+[Language Learning App](https://github.com/MKRadius/JourneyLingua) <br>
 [Supermarket Queue Simulation](https://github.com/LVNDLORD/3-phase-simulator) <br>
 [Fitness App](https://github.com/SoaresPT/FitnessApp) <br>
 [Heart rate Raspberry Pi project](https://github.com/LVNDLORD/Raspberry_Pi_Pico_W) <br>
@@ -29,8 +30,8 @@ Test tasks completed:
 You can reach me via [LinkedIn](https://www.linkedin.com/in/andrii-deshko-161b74104/) or email in my CV
 
 
-## Most used languages and tools
-[![My Skills](https://skillicons.dev/icons?i=java,py,flask,html,css,js,react,express,mongo,mysql,postgres,hibernate,git&theme=light)](https://skillicons.dev)
+## Languages and tools I use
+[![My Skills](https://skillicons.dev/icons?i=java,py,flask,html,css,ts,js,react,express,mongo,mysql,postgres,prisma,hibernate,git&theme=light)](https://skillicons.dev)
 
 ## Stats and top languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LVNDLORD&theme=transparent)
