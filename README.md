@@ -3,9 +3,8 @@
 I am a passionate developer living in Espoo, Finland
 
 - 📖 I’m a studying [Software Engineering](https://opinto-opas.metropolia.fi/88094/en/67/70331/3319/2490) at [Metropolia University](https://www.metropolia.fi/en) in Helsinki
-- 🧠 Currently learning Design Patterns and Data Modelling Techniques
-- 🔐 Interested in Web Application Security
-- 🗣️ Currently working on a language learning web application
+- 🧠 Currently learning about Design Patterns in Kotlin and Sensors in Mobile Applications
+- 🔐 Interested in Web Applications and Cloud
 - 🤝 Interested in collaborations
 
 
