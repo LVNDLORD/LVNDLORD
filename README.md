@@ -3,9 +3,9 @@
 I am a passionate developer living in Espoo, Finland
 
 - 📖 I’m a studying [Software Engineering](https://opinto-opas.metropolia.fi/88094/en/67/70331/3319/2490) at [Metropolia University](https://www.metropolia.fi/en) in Helsinki
-- 🧠 Currently learning about Design Patterns in Kotlin and Sensors in Mobile Applications
+- 🧠 Currently learning mobile development in Kotlin and Swift
 - 🔐 Interested in Web Applications and Cloud
-- 🤝 Interested in collaborations
+- 👨🏻‍💻 I'm a Software Engineering intern at [Sampo Accelerator](https://www.sampoaccelerator.com/)
 
 
 <img align="right" alt="coding" width="400" src="./images/coding-freak.gif">
@@ -30,7 +30,7 @@ You can reach me via [LinkedIn](https://www.linkedin.com/in/andrii-deshko-161b74
 
 
 ## Languages and tools I use
-[![My Skills](https://skillicons.dev/icons?i=java,py,flask,html,css,ts,js,react,express,mongo,mysql,postgres,prisma,hibernate,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,flask,kotlin,swift,html,css,ts,js,react,express,mongo,mysql,postgres,prisma,hibernate,git&theme=light&perline=9)](https://skillicons.dev)
 
 ## Stats and top languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LVNDLORD&theme=transparent)
