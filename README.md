@@ -4,7 +4,7 @@ I am a passionate developer living in Espoo, Finland
 
 - 📖 I’m a studying [Software Engineering](https://opinto-opas.metropolia.fi/88094/en/67/70331/3319/2490) at [Metropolia University](https://www.metropolia.fi/en) in Helsinki
 - 🧠 Interested in Full-Stack Development
-- 🔧 Currently managing Moodle LMS and working on a personal project
+- 🔧 Currently working at [Helsinki XR Center](https://helsinkixrcenter.com/) since October 2025 and managing Moodle LMS
 - 🤝 Open for collaboration
 
 
